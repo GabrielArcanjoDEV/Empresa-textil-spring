@@ -1,0 +1,14 @@
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\controller\ClienteController.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\controller\PedidoController.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\controller\ProducaoController.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\controller\ProdutoController.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\entity\Cliente.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\entity\Pedido.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\entity\Producao.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\entity\Produto.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\ProdutosApplication.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\repository\ClienteRepository.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\repository\PedidoRepository.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\repository\ProducaoRepository.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\repository\ProdutoRepository.java
+C:\Users\Gabriel Arcanjo\IdeaProjects\Empresa-textil-spring\produtos-supabase\produtos-supabase\produtos-supabase\src\main\java\br\edu\aula\produtos\service\ProdutoService.java

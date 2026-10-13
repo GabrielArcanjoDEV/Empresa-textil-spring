@@ -15,7 +15,7 @@
     <artifactId>produtos</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>produtos</name>
-    <description>API REST de produtos com Spring Boot, JPA, PostgreSQL e Supabase</description>
+    <description>API REST de produtos com Spring Boot, JPA, PostgreSQL e neondb</description>
 
     <properties>
         <java.version>17</java.version>
